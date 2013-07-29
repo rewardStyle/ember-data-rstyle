@@ -1,7 +1,7 @@
 ember-data-rstyle
 =================
 
-Used by rewardStyle to control the specific version of embe-data used within internal applications.
+Used by rewardStyle to control the specific version of ember-data used within internal applications.
 
 This package includes the core library of ember-data.
 
