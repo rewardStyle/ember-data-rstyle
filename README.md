@@ -8,4 +8,4 @@ This package includes the core library of ember-data.
 Package Managers
 ----------------
 
-* [Bower](http://bower.io): `ember-rstyle`
+* [Bower](http://bower.io): `ember-data-rstyle`
