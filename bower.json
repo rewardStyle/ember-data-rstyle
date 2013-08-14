@@ -3,6 +3,6 @@
     "version": "0.0.13",
     "main": "ember-data.js",
     "dependencies": {
-        "ember-rstyle": "1.0.0-rc.6"
+        "ember-rstyle": "1.0.0-rc.7"
     }
 }
