@@ -1,8 +1,8 @@
 {
     "name": "ember-data-rstyle",
-    "version": "0.0.13",
+    "version": "1.0.0-beta",
     "main": "ember-data.js",
     "dependencies": {
-        "ember-rstyle": "1.0.0-rc.8"
+        "ember-rstyle": "1.0.0"
     }
 }
