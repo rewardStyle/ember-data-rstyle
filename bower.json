@@ -1,6 +1,6 @@
 {
     "name": "ember-data-rstyle",
-    "version": "1.0.0-beta",
+    "version": "1.0.0-beta.1",
     "main": "ember-data.js",
     "dependencies": {
         "ember-rstyle": "1.0.0"
